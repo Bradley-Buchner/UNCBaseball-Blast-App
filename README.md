@@ -1,5 +1,5 @@
 # UNC Baseball Blast App
-Bradley Buchner
+Bradley Buchner <br>
 Senior Director of Analytics, UNC Baseball
 
 ## Description
